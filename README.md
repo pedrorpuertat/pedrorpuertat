@@ -1,21 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20There!&height=100&section=header&fontColor=fff)
 
 ### Let's talk here 💬
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)(https://www.linkedin.com/in/edgaregonzalez/)
-<!--
-**pedrorpuertat/pedrorpuertat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedro-puerta-b3b9aa51/)
+  
+### A litle bit about me:
+- 🌱 I am a Wordpress Developer and Devops BUT, I am training as a Devops Engineer
+- 🔭 I am looking to improve my knowledge in Cloud Computing.
+- 💬 Ask me about Wordpress, PHP, Linux, Apache, Mysql, CI/CD, etc.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Some tools I use every day
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
