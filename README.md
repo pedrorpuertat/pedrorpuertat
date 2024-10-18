@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20There!&height=100&section=header&fontColor=fff)
+
+### Let's talk here 💬
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)(https://www.linkedin.com/in/edgaregonzalez/)
 <!--
 **pedrorpuertat/pedrorpuertat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
